@@ -1,7 +1,9 @@
 #This is a Landing Menu program, designed to let you customize what
 # webpages you want to load on startup. That way, you save time by
 # having to open everything up manually. 
-
+# It should be noted that to initiate the program I copied a version of it to this path location:
+# C:\Users\admin1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+#       Come to think of it, I'll have to circle back and include this in the code !
 import webbrowser
 
 #Create the menu, show it to user and call the function
