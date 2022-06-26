@@ -26,10 +26,7 @@ def option3():
     webbrowser.open('https://moodle.uqam.ca/')
     
 def option4():
-    webbrowser.open('https://docs.google.com/document/d/1xCeEPnJLceNTEO4u37ZHpgREbbekrP5zjjAtiqMIsWs/edit')
-    webbrowser.open('https://moodle.uqam.ca/')
-    webbrowser.open('https://uqam.zoom.us/j/84514318379')
-    
+   
 
 #Take input from user to know which tools to load
 option = int(input('Pick an option to load certain tools: '))
